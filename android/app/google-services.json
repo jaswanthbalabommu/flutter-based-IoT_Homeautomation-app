@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876703446082",
+    "firebase_url": "https://iot-app-70b10.firebaseio.com",
+    "project_id": "iot-app-70b10",
+    "storage_bucket": "iot-app-70b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876703446082:android:7e96f2bb594e82815429db",
+        "android_client_info": {
+          "package_name": "com.example.home_automahine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876703446082-oi1k43oqikfr7vuji53lrr92br8prhvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8AS1y_5moy_yCBvY96CUzifalWx8BPhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876703446082-oi1k43oqikfr7vuji53lrr92br8prhvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
